@@ -1,2 +1,2 @@
-# bullet
-we can fnd whether the wall id suitable for the bullet or not
+# p5.play-boilerplate
+Boiler plate for p5.play
